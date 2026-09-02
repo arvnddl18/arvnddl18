@@ -86,13 +86,13 @@ I approach development with a focus on **continuous learning, clear documentatio
 
 ## GitHub Statistics
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true" alt="Most used languages" />
+<!-- Replace arvnddl18 in the image links below with your GitHub username. --> <p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=arvnddl18&show_icons=true&theme=default&hide_border=true" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvnddl18&layout=compact&theme=default&hide_border=true" alt="Most used languages" />
 </p>
 
 ---
 
 *Focused on learning, building, and delivering practical software solutions.*
 
-<!-- Replace [Your Name], YOUR_GITHUB_USERNAME, and the social links before publishing. -->
+<!-- Replace [Your Name], arvnddl18, and the social links before publishing. The statistics cards will not load until arvnddl18 is replaced with your actual GitHub username. -->
